@@ -24,6 +24,10 @@ button:hover {
   cursor: pointer;
 }
 
+button:active {
+  transform: scale(.85);
+}
+
 .centered {
   text-align: center;
 }
