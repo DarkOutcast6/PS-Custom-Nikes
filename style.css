@@ -221,3 +221,7 @@ h4.card {
 	/* color: black; */
 	margin-bottom: 20px;
 }
+
+button.card {
+  margin: 10px;
+}
