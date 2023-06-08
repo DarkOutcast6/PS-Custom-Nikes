@@ -86,6 +86,7 @@ button:active {
   width: 100%;
   padding: 10px 20px;
   font-family: 'Teko', sans-serif;
+  z-index: 100;
 }
 .menu-1, .menu-5{
   /* background: #4A148C; */
