@@ -225,3 +225,12 @@ h4.card {
 button.card {
   margin: 10px;
 }
+
+ul.card {
+  text-align: left;
+}
+
+li.card {
+  padding-left: 10px;
+  margin-right: 10px;
+}
