@@ -262,7 +262,7 @@ div.card2:hover {
 
 img.card2 {
   /* width: 274px;
-  height: 196px; */
+  height: auto; */
   /* width: 110%; */
   /* height: 110%; */
   transform: rotate(30deg);
