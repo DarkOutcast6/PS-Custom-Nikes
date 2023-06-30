@@ -80,6 +80,7 @@ button:active {
   margin-top: 50px;
   width: 80%;
   height: auto;
+  max-width: 500px;
 }
 
 /* Navbar */
