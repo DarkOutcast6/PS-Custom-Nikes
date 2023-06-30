@@ -270,6 +270,7 @@ img.card2 {
   transform: rotate(30deg);
 	transition: 0.7s;
   z-index: 100;
+  margin-bottom: 10px;
 }
 
 img.card2:hover {
