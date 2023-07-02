@@ -252,6 +252,7 @@ div.card2 {
 	display: inline-block;
   border-radius: 12px;
  	width: 215px;
+  max-width: 215px;
   height: auto;
   color: #ffffff;
 	text-align: center;
