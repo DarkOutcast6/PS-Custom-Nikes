@@ -14,9 +14,12 @@ body {
 button {
   border-radius: 15px;
   transition: 0.3s;
-  width: 100px;
+  color: white;
+  min-width: 100px;
   height: 40px;
   border: none;
+  font-family: "Montserrat";
+  background: linear-gradient(90deg, rgba(14,0,255,1) 0%, rgba(111,0,255,1) 100%);
 }
 
 button:hover {
@@ -285,3 +288,43 @@ img.card2:hover {
 button.card2 {
   margin: 10px;
 } 
+
+/* New Home */
+h1.sec1 {
+  font-family: "Teko";
+  color: white;
+  margin-bottom: 15px;
+}
+
+h2.sec1 {
+  font-family: "Teko";
+  color: white;
+}
+
+img.banner {
+  width: 100%;
+  height: auto;
+}
+
+/* Card 3 */
+div.card3 {
+  width: 200px;
+  height: auto;
+  color: white;
+  text-align: left;
+  padding: 10px;
+  display: inline-block;
+}
+
+img.card3 {
+  width: 100%;
+  height: 200px;
+  min-height: 200px;
+  max-height: 200px;
+  border-radius: 15px;
+}
+
+span.card3 {
+  font-family: "Montserrat";
+  text-align: left;
+}
