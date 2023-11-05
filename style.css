@@ -300,10 +300,13 @@ div.card2 {
   margin-left: 30px;
   margin-right: 30px;
   margin-bottom: 55px;
+  transition: 0.3s;
 }
 
 div.card2:hover {
+  transform: scale(1.050);
   text-decoration: underline;
+  transition: 0.3s;
 }
 
 img.card2 {
